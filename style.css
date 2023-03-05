@@ -1,0 +1,12 @@
+.box {
+    width: 1500px;
+    height: 1500px;
+  }
+  
+  .box-wite {
+    background-color: #fff;
+  }
+  
+  .box-2 {
+    background-color: #000;
+  }
